@@ -1,0 +1,30 @@
+﻿#include <iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+   int *number;
+   cout<<*number<<endl;
+  //end a
+
+  double *realPtr={};
+  long *integerPtr={};
+  integerPtr=reinterpret_cast<int>realPtr;
+ //end b
+
+ int *x,y;
+ x=&y;
+ //end c
+ char s[500]={'t','h','i','s',' ','i','s',' ','a',' ','c','h','a','r','a','c','t','e','r',' ','a','r','r','a','y'};
+ for( ;*s != '\0';++s)
+    cout<<*s;
+    //end d
+
+    short *numPtr,result;
+    result=*numPtr+7;
+    //end e
+    double x=19.34;
+    double xPtr=&x;
+    cout<< *xPtr<<endl;
+}
