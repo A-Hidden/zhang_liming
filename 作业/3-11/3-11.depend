@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560771958 source:c:\users\azlm1\documents\zhang_liming\作业\3-11\gradebook.cpp
+	<string>
+	<iostream>
+	"GradeBook.h"
+
+1560771764 c:\users\azlm1\documents\zhang_liming\作业\3-11\gradebook.h
+	<string>
+
+1560771904 source:c:\users\azlm1\documents\zhang_liming\作业\3-11\main.cpp
+	<iostream>
+	<string>
+	"GradeBook.h"
+

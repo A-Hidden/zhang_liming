@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1560774161 source:c:\users\azlm1\documents\zhang_liming\作业\3-12\main.cpp
+	<iostream>
+	"Account.h"
+
+1560773952 c:\users\azlm1\documents\zhang_liming\作业\3-12\account.h
+	<iostream>
+
+1560774077 source:c:\users\azlm1\documents\zhang_liming\作业\3-12\account.cpp
+	<iostream>
+	"Account.h"
+

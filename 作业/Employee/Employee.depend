@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1553424424 source:d:\学习\程序\employee\main.cpp
-	<iostream>
-	"Employee.h"
-
-1553424424 d:\学习\程序\employee\employee.h
-	<string>
-

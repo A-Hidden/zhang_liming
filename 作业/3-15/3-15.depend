@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560776719 source:c:\users\azlm1\documents\zhang_liming\作业\3-15\date.cpp
+	<iostream>
+	"Date.h"
+
+1560776719 c:\users\azlm1\documents\zhang_liming\作业\3-15\date.h
+
+1560776738 source:c:\users\azlm1\documents\zhang_liming\作业\3-15\main.cpp
+	<iostream>
+	"Date.h"
+

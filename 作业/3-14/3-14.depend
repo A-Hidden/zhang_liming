@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560775610 source:c:\users\azlm1\documents\zhang_liming\作业\3-14\main.cpp
+	<iostream>
+	"Emloyment.h"
+
+1560775532 c:\users\azlm1\documents\zhang_liming\作业\3-14\emloyment.h
+	<string>
+
+1560775715 source:c:\users\azlm1\documents\zhang_liming\作业\3-14\emloyment.cpp
+	<string>
+	<iostream>
+	"Emloyment.h"
+
